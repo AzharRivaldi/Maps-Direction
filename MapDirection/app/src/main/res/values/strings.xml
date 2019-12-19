@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Maps Direction</string>
+    <string name="google_maps_key">YOUR API KEY</string>
+    <string-array name="cari_tempat">
+        <item>--Cari Tempat--</item>
+        <item>Masjid</item>
+        <item>Restoran</item>
+        <item>ATM</item>
+        <item>Bank</item>
+        <item>Kantor DAMKAR</item>
+        <item>Rumah Sakit</item>
+        <item>Laundry</item>
+        <item>Bioskop</item>
+        <item>Kantor POS</item>
+        <item>Kantor Polisi</item>
+    </string-array>
+</resources>
